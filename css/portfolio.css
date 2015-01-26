@@ -2,14 +2,29 @@
 	background-color: #305F6E;
 }
 #my-name {
-	color: #FFFFFF;
-		vertical-align: center;
+	color: #CDEFE6;
+	vertical-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
 }
 #my-navbar-text{
-	color: #FFFFFF;
-		vertical-align: center;
+	color: #CDEFE6;
+	vertical-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 500;
 }
 #my-navbar-links {
 	text-align: right;
 	vertical-align: center;
+}
+h2.start{
+	font-family: 'Raleway', sans-serif;	
+}
+
+#storyjs-timeline > div > div.vco-feature > div > div.slider-container-mask > div > div > div:nth-child(1) > div > div > div > div > h2 {
+	font-family: 'Raleway', sans-serif;	
+}
+
+div.flag {
+	top: 100px;
 }
